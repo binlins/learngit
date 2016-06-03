@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+#change
 
 class Node(object):
     def __init__(self, val, p=0):
